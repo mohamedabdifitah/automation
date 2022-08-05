@@ -14,7 +14,7 @@ search_box.send_keys('ChromeDriver')
 
 search_box.submit()
 
-time.sleep(5) # Let the user actually see something!
+time.sleep(5) # Let the user actually see something! in
 
 driver.quit()
 
